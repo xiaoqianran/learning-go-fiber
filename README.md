@@ -2,6 +2,7 @@
 
 交互式中文 Go Fiber 教程：课程 + 测验 + 进度 + 请求演练 + API 工坊。
 
+**在线访问：** [https://xiaoqianran.github.io/learning-go-fiber/](https://xiaoqianran.github.io/learning-go-fiber/)  
 **仓库：** [https://github.com/xiaoqianran/learning-go-fiber](https://github.com/xiaoqianran/learning-go-fiber)
 
 > 姊妹项目：[learning-vue3](https://github.com/xiaoqianran/learning-vue3)
